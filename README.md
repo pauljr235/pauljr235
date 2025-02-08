@@ -1,4 +1,4 @@
-###I'm a front-end engineer, passionate about creating interfaces that not only work well, but also provide a fluid and pleasant experience for the user.  👋
+I'm a front-end engineer, passionate about creating interfaces that not only work well, but also provide a fluid and pleasant experience for the user.  👋
 
 <!--
 **pauljr235/pauljr235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
